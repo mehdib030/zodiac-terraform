@@ -1,0 +1,14 @@
+{
+  "source": ["aws.s3"],
+  "detail-type": ["Object Created"],
+  "detail": {
+    "bucket": {
+      "name": ["bucket2-team5"]
+    },
+    "object": {
+      "key": [{
+        "prefix": "famous_people/"
+      }]
+    }
+  }
+}
